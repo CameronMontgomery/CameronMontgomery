@@ -11,7 +11,6 @@ I’m Cameron Montgomery working under @Tribalash on GitHub. I am a Software Eng
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/><img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" alt="Handlebars"/>
 
-
 <h4>Database</h4>
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -20,20 +19,19 @@ I’m Cameron Montgomery working under @Tribalash on GitHub. I am a Software Eng
 
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 
-
 <h4>Testing</h4>
 
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/><img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai"/><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha"/>
-
 
 <h4>Developer Tools</h4>
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack"/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
 
 
-- :speech_balloon: If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, substance abuse, and other mental health challenges. 
+<h2>:speech_balloon: About</h2> 
+If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, substance abuse, and other mental health challenges. 
 
-- 📫 Where you can reach me is at my email, jc.montgomery0102@gmail.com 
+<h2>📫 Contact</h2> Where you can reach me is at my email, jc.montgomery0102@gmail.com 
 
 Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects and if you have any input or advice I would love to hear it.
 
