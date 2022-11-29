@@ -27,11 +27,15 @@ I’m Cameron Montgomery working under @Tribalash on GitHub. I am a Software Eng
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack"/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
 
+<hr>
 
 <h2>:speech_balloon: About</h2> 
-If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, substance abuse, and other mental health challenges. 
 
-<h2>📫 Contact</h2> Where you can reach me is at my email, jc.montgomery0102@gmail.com 
+>If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a >father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the >kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a >technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, >substance abuse, and other mental health challenges. 
+
+<h2>📫 Contact</h2> 
+
+>Where you can reach me is at my email, jc.montgomery0102@gmail.com 
 
 Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects and if you have any input or advice I would love to hear it.
 
