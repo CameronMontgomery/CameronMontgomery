@@ -35,7 +35,7 @@ I’m Cameron Montgomery working under @Tribalash on GitHub. I am a Software Eng
 
 <h2>📫 Contact</h2> 
 
->Where you can reach me is at my email, jc.montgomery0102@gmail.com 
+>You can reach me by [Email](jc.montgomery0102@gmail.com) or on [Linkedin](https://www.linkedin.com/in/jcameronmontgomery/)
 
 Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects and if you have any input or advice I would love to hear it.
 
