@@ -1,5 +1,5 @@
 <h2>👋 Hello</h2>
-I’m Cameron Montgomery working under @Tribalash on GitHub. I am a Software Engineer living in Centennial, CO. I graduated from Hack Reactor Advanced Software Immersive in December 2023 and am working in an apprenticeship until June 2023.
+I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I graduated from Hack Reactor Advanced Software Immersive in December 2022 and am working in an apprenticeship until June 2023.
 
 ### I primarily work with
 
