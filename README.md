@@ -31,7 +31,8 @@ I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I g
 
 <h2>:speech_balloon: About</h2> 
 
->If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a >father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the >kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a >technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, >substance abuse, and other mental health challenges. 
+>If you would like to know a little about me, I'm a Colorado native, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, and building projects with the
+kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore, as a technician with DirecTV, and worked as a programs developer with WarriorNow a non-profit serving veterans suffering with PTSD, anxiety, depression, substance abuse, and other mental health challenges. 
 
 <h2>📫 Contact</h2> 
 
