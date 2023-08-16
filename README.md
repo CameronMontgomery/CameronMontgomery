@@ -43,7 +43,7 @@ I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I g
 
 <h2>📫 Contact</h2> 
 
->[![Email/Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jc.montgomery0102@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1046924165787156581). 
+>[![Email/Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmontgomery@montgomeryfe.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1046924165787156581). 
 > <br>
 
 
