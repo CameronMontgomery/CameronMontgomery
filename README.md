@@ -1,5 +1,5 @@
 <h2>👋 Hello</h2>
-I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I graduated from Hack Reactor Advanced Software Immersive in December 2022 and spent the following 5 months in an apprenticeship at Square (Block), where I worked with the payment onboarding team taking part in international SEV remediations and working toward bringing Square's great service to more business types here in the US. I am now open to employment while I continue developing personal projects and continued learning.
+I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I graduated from Hack Reactor Advanced Software Immersive in December 2022 and spent the following 5 months in an apprenticeship at Square (Block), where I worked with the payment onboarding team, taking part in international SEV remediations and working toward bringing Square's great service to more business types here in the US. I am both open to employment opportunities and looking for collaborators with possible paid work.
 
 ### I primarily work with
 
@@ -37,16 +37,21 @@ I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I g
 
 <h2>:speech_balloon: About</h2> 
 
->If you would like to know a little about me, I'm a Colorado native and still call it home, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, video games, and building projects with the kids. I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, hold a maritime license from my time working offshore. I also owned and operated Tattered Flag Services, a garage door installation & service business. I am also heavily involved with WarriorNow, a non-profit serving veterans suffering from PTSD, anxiety, depression, substance abuse, and other mental health challenges, where I worked as an ambassador & director. Finally I am  I am also looking to begin technical coaching & mentoring apprentices going through the Next Chapter program.
+>If you would like to know a little about me, I'm a Colorado native and still call it home, even though I have lived in various states and spent almost a year in Japan. I am a father and husband who loves experiencing life with his family. I love the mountains, fly fishing, camping, snowboarding, video games, and building projects with the kids. I am also passionate about investing in people and helping them grow into the best versions of themselves. In hopes of helping to facilitate this in some small way, I have served in various mentorship positions, helping others through different areas of their life, from mental health and substance abuse issues to career skills and software engineering. Currently, I serve as a technical mentor with Next Chapter helping judicially impacted individuals make it through their studies and find employment in technology.
 >
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cammontgomery)
+>I have done a few different things before pursuing software. I spent 5 years on active duty in the US. Marine Corps, worked offshore and held a maritime license and crane operator license. I owned and operated Tattered Flag Services, a garage door installation & service business and served as a director and ambassador for WarriorNow, a non-profit serving veterans suffering from PTSD, anxiety, depression, substance abuse, and other mental health challenges.
+>
+>Currently, I am working on building an e-commerce ecosystem for two new businesses I am launching.
+
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cammontgomery)
 
 <h2>📫 Contact</h2> 
 
->[![Email/Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmontgomery@montgomeryfe.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1046924165787156581). 
-> <br>
+[![Email/Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmontgomery@montgomeryfe.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/1046924165787156581). 
+<br>
 
 
-Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects, and if you have any comments, I would love to hear them.
+>Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects, and if you have any comments, I would love to hear them.
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TribalAsh}1212%2Fhit-counter" alt="Profile Hits" align="right"/>
