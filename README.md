@@ -120,14 +120,16 @@ I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I g
 >Thanks for taking the time to read this. I look forward to hearing from you and maybe even collaborating. Please take a look at my projects, and if you have any comments, I would love to hear them.
 
  <p float="left">
-<img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/2077/0-profile-details.svg" width="59%" height="220px" alt="Github Profile Summary"/>
-<img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="39%" height="200px" alt="Github Top Languages"/>
+<img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/swift/0-profile-details.svg" width="59%" height="220px" alt="Github Profile Summary"/>
+<img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/swift/2-most-commit-language.svg" width="39%" height="200px" alt="Github Top Languages"/>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronMontgomery)](https://github.com/anuraghazra/github-readme-stats) -->
+![]()
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronMontgomery&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CameronMontgomery&theme=onedark" alt="Github Profile Badges"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CameronMontgomery&theme=swift" alt="Github Profile Badges"/>
 </div>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCameronMontgomery1212%2Fhit-counter" alt="Profile Hits" align="right" display="none"/>
