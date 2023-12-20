@@ -1,5 +1,9 @@
 ## 👋 Hello
-I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I graduated from Hack Reactor Advanced Software Immersive in December 2022 and spent the following 5 months in an apprenticeship at Square (Block), where I worked with the payment onboarding team, taking part in international SEV remediations and working toward bringing Square's great service to more business types here in the US. I am both open to employment opportunities and looking for collaborators with possible paid work.
+I’m Cameron, a Software Engineer and Entrepreneur located in Centennial, CO and the owner of Montgomery Family Enterprises. Feel free to look around!
+Currently my focus is on developing e-commerce sites to facilitate the launch of various products across multiple market sectors, the first of which 
+will be launching early 2024. Stay tuned! 🚀
+
+### 🔎 Looking for freelance collaborators experineced in Medusa.js, monitoring, and analytics</strong>
 
 ### Experience
 
@@ -122,7 +126,7 @@ I’m Cameron Montgomery. I am a Software Engineer living in Centennial, CO. I g
  <p float="left">
 <img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/swift/0-profile-details.svg" width="59%" height="220px" alt="Github Profile Summary"/>
 <img src="https://raw.githubusercontent.com/CameronMontgomery/github-profile-card/master/profile-summary-card-output/swift/2-most-commit-language.svg" width="39%" height="200px" alt="Github Top Languages"/>
-</p>
+ </p>
 
 ![]()
 
