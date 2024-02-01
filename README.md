@@ -3,7 +3,7 @@ I’m Cameron, a Software Engineer and Entrepreneur located in Centennial, CO an
 Currently my focus is on developing e-commerce sites to facilitate the launch of various products across multiple market sectors, the first of which 
 will be launching early 2024. Stay tuned! 🚀
 
-### 🔎 Looking for freelance collaborators experineced in Medusa.js, monitoring, and analytics</strong>
+### 🔎 Looking for freelance collaborators experienced in Medusa.js, monitoring, and analytics</strong>
 
 ### Experience
 
